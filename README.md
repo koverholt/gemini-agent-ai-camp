@@ -1,6 +1,6 @@
 # Gemini Agent AI Camp: Working with AI Agents
 
-This repository contains three different approaches to working with generative AI: **Google Generative AI (Gemini)**, **LangChain**, and **LangGraph**. The examples are organized into separate notebooks that progressively build more complex pipelines.
+This repository contains three different approaches to working with generative AI: **Gemini API**, **LangChain**, and **LangGraph**. The examples are organized into separate notebooks that progressively build more complex pipelines.
 
 Each notebook is self-contained and demonstrates a different approach to working with generative AI models and LLM frameworks. You can run the notebooks in any Jupyter environment to experiment with the workflow.
 
