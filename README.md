@@ -36,8 +36,8 @@ This approach implements an AI agent pipeline using LangGraph, allowing for more
 
 ## Additional Resources
 
-- [Google CloudGenerative AI repository on GitHub](https://github.com/GoogleCloudPlatform/generative-ai/)
+- [Google Cloud Generative AI repository on GitHub](https://github.com/GoogleCloudPlatform/generative-ai/)
 - [Gemini API in Google AI Studio](https://ai.google.dev/gemini-api/docs)
 - [Gemini API in Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview)
 - [LangGraph tutorials](https://langchain-ai.github.io/langgraph/tutorials/)
-- DeepLearning.AI course on [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+- [DeepLearning.AI course on AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
