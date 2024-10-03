@@ -33,3 +33,11 @@ This notebook expands on the prompt-based approach by integrating LangChain to c
 This approach implements an AI agent pipeline using LangGraph, allowing for more complex workflows and branching logic. The notebook showcases how to structure an AI agent pipeline with more customization of the steps, cycles, and how much control is given to the LLM vs. deterministic code in each step.
 
 <img src="images/3-langgraph-essay.png" width="900px">
+
+## Additional Resources
+
+- [Google CloudGenerative AI repository on GitHub](https://github.com/GoogleCloudPlatform/generative-ai/)
+- [Gemini API in Google AI Studio](https://ai.google.dev/gemini-api/docs)
+- [Gemini API in Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview)
+- [LangGraph tutorials](https://langchain-ai.github.io/langgraph/tutorials/)
+- DeepLearning.AI course on [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
