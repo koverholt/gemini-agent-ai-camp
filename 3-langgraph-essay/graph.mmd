@@ -1,0 +1,14 @@
+%%{ init: {'theme': 'default'} }%%
+graph LR
+    _start_((Start)):::startStyle --> planner[Plan Outline]:::nodeStyle
+    planner --> research_plan[Perform Research]:::nodeStyle
+    research_plan --> generate[Write Draft]:::nodeStyle
+    generate --> reflect[Critique Essay]:::nodeStyle
+    generate --> _end_((End)):::endStyle
+    reflect --> research_critique[Research Critique]:::nodeStyle
+    research_critique --> generate
+
+    %% Define styles
+    classDef startStyle fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef endStyle fill:#9cf,stroke:#333,stroke-width:2px;
+    classDef nodeStyle fill:#f6f1ff,stroke:#9370DB,stroke-width:2px,rx:10,ry:10;
