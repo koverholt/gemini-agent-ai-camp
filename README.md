@@ -8,10 +8,16 @@ Each notebook is self-contained and demonstrates a different approach to working
 
 A simple approach to generating content with a single prompt using the Gemini API. This example demonstrates how to directly interact with the model to generate text with minimal steps.
 
+<img src="1-prompt-essay/diagram.png" width="350px">
+
 ## LangChain approach
 
 This notebook expands on the prompt-based approach by integrating LangChain to chain tasks such as outlining, researching, and drafting an essay. It uses LangChain's ability to build a sequence of LLM and tool calls for more robust final output.
 
+<img src="2-langchain-essay/diagram.png" width="550px">
+
 ## LangGraph approach
 
 This approach implements an AI agent pipeline using LangGraph, allowing for more complex workflows and branching logic. The notebook showcases how to structure an AI agent pipeline with more customization of the steps, cycles, and how much control is given to the LLM vs. deterministic code in each step.
+
+<img src="3-langgraph-essay/graph.png">

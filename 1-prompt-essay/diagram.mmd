@@ -1,0 +1,9 @@
+%%{ init: {'theme': 'default'} }%%
+graph LR
+    prompt[Prompt]:::nodeStyle --> api_call[Gemini API]:::nodeStyle
+    api_call --> output[Output]:::nodeStyle
+
+    %% Define styles
+    classDef startStyle fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef endStyle fill:#9cf,stroke:#333,stroke-width:2px;
+    classDef nodeStyle fill:#f6f1ff,stroke:#9370DB,stroke-width:2px,rx:10,ry:10;
