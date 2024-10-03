@@ -4,9 +4,7 @@ This repository contains three different approaches to working with generative A
 
 Each notebook is self-contained and demonstrates a different approach to working with generative AI models and LLM frameworks. You can run the notebooks in any Jupyter environment to experiment with the workflow.
 
-## Prompt-based approach <img src="images/1-prompt-essay.png" width="350px">
-
-<a target="_blank" href="https://colab.research.google.com/github/koverholt/gemini-agent-ai-camp/blob/main/1-prompt-essay/prompt-essay.ipynb">
+## Prompt-based approach <a target="_blank" href="https://colab.research.google.com/github/koverholt/gemini-agent-ai-camp/blob/main/1-prompt-essay/prompt-essay.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
